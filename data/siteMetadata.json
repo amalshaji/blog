@@ -1,0 +1,16 @@
+{
+  "title": "Amal Shaji",
+  "author": "Amal Shaji",
+  "headerTitle": "Amal Shaji",
+  "description": "I write about what I learn. Currently exploring Python, Go, Rust, Svelte and React",
+  "language": "en-us",
+  "siteUrl": "https://amalshaji.com",
+  "siteRepo": "https://github.com/amalshaji/blog",
+  "siteLogo": "/static/images/logo.png",
+  "image": "/static/images/logo.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "amalshajid@gmail.com",
+  "github": "https://github.com/amalshaji",
+  "twitter": "https://twitter.com/pydantic",
+  "locale": "en-US"
+}
