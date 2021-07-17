@@ -15,6 +15,13 @@ const projectsData = [
     imgSrc: '/static/images/amalytics.jpg',
     href: 'https://github.com/amalshaji/amalytics',
   },
+  {
+    title: 'FakeAPI',
+    description: `FakeAPI is the predecessor of Phoney. FakeAPI let's you generate fake data by sending a JSON payload 
+    via POST request. `,
+    imgSrc: '/static/images/fakeapi.jpg',
+    href: 'https://fakeapi.amalshaji.com',
+  },
 ]
 
 export default projectsData
