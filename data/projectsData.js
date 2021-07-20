@@ -22,6 +22,12 @@ const projectsData = [
     imgSrc: '/static/images/fakeapi.jpg',
     href: 'https://fakeapi.amalshaji.com',
   },
+  {
+    title: 'Python Playground',
+    description: `A simple python playground deployed to Deta.sh. `,
+    imgSrc: '/static/images/playground.jpg',
+    href: 'https://python-playground.deta.dev/',
+  },
 ]
 
 export default projectsData
